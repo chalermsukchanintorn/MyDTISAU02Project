@@ -9,6 +9,7 @@ public class Km01CF {
         if( a < 5 ){
             System.out.println("Hello.....");
         }
+        
         System.out.println("+++++++++++++++++++");
         //แบบที่ 2 พิสูจน์ครั้งเดียวจริงทำอย่าง เท็จทำอีกอย่าง : if-else
         int b = 100;
@@ -18,6 +19,7 @@ public class Km01CF {
             System.out.println("Woo...");
         }
         System.out.println("+++++++++++++++++++");
+        
         //แบบที่ 3 พิสูจน์หลายครั้ง : if-else-if , switch-case
         int c = 70;
         if( c > 80){
@@ -29,6 +31,7 @@ public class Km01CF {
         }else{  //ไม่จำเป็นต้องมี if ทั้งนี้ขึ้นอยู่กับโจทย์
             System.out.println("555555555");
         }
+        
         System.out.println("+++++++++++++++++++");
         int busNumber = 56;
         switch( busNumber  ){
